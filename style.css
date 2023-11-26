@@ -16,7 +16,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: hsla(0, 0%, 33%, 1);
 }
 
 /* TRANSITION */
@@ -55,7 +55,7 @@ a:hover {
   color: grey;
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: hsla(0, 0%, 71%, 1);
 }
 
 .logo {
@@ -95,7 +95,7 @@ a:hover {
 
 .menu-links {
   position: absolute;
-  top: 10%;
+  top: 12%;
   right: 20%;
   background-color: white;
   width: fit-content;
@@ -147,5 +147,3 @@ a:hover {
 }
 
 /* SECTIONS */
-
-
